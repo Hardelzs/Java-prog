@@ -2,7 +2,7 @@ package javasclass;
 public class LargestElement {
 
     public static void main(String[] args) {
-      // Initialize array (replace with your data)
+      // Initialize array 
       int[] numbers = {25, 14, 78, 11, 56};
       int largest = numbers[0]; // Initialize with first element
   

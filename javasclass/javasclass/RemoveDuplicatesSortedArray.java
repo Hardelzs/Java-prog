@@ -5,8 +5,9 @@ public class RemoveDuplicatesSortedArray {
 
   public static void main(String[] args) {
     int[] arr = {1, 2, 2, 3, 3, 3, 4, 5};
-    Arrays.sort(arr); // Sort the array (required for this approach)
-
+    // Sort the array (required for this approach)
+    Arrays.sort(arr); 
+    
     // j keeps track of the index for unique elements
     int j = 0;
     for (int i = 1; i < arr.length; i++) {

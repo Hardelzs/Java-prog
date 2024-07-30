@@ -5,7 +5,8 @@ public class RemoveElement {
 
     public static void main(String[] args) {
       int[] arr = {1, 2, 2, 3, 3, 3, 4, 5};
-      int elementToRemove = 3; // Element to be removed
+      // Element to be removed
+      int elementToRemove = 3; 
   
       int j = 0; // Index for the new array (without duplicates)
       for (int num : arr) {

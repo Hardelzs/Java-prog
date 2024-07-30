@@ -2,7 +2,7 @@ package javasclass;
 public class SumOfArray {
 
     public static void main(String[] args) {
-      // Initialize array (replace with your data)
+      // Initialize array 
       int[] numbers = {10, 20, 30, 40, 50};
       int sum = 0;
   

@@ -2,7 +2,8 @@ package javasclass;
 public class FibonacciSum {
 
   public static void main(String[] args) {
-    int n = 50; // Number of terms
+    // Number of terms
+    int n = 50; 
     int firstTerm = 0, secondTerm = 1, sum = 0;
 
     for (int i = 0; i < n; ++i) {
